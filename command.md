@@ -75,3 +75,8 @@ También se puede emplear para renombrar archivos y mantenerlos en el mismo dire
 ```
 mv command_list.txt more_command_list.txt
 ```
+
+Ampliable.
+
+## REFERENCIAS:
+https://kinsta.com/es/blog/linux-comandos/
